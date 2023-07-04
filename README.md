@@ -1,4 +1,4 @@
-### Hey I am Johan Stiwer 👋
+### Hi I am Johan Stiwer 👋
 
 
 ```js
