@@ -39,3 +39,5 @@ const JohanStiwer ={
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanStiwer)](https://github.com/anuraghazra/github-readme-stats)
